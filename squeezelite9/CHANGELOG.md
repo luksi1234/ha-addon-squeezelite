@@ -1,3 +1,8 @@
+## [0.0.21] 2025-05-24
+### Changes
+ - debian base to 7.8.3
+ - squeezelite to commit bb7ae0615f6e661c217a1c77fdff70122859c3c5
+
 ## [0.0.20] 2024-12-13
 ### Changes
  - debian base to 7.6.1

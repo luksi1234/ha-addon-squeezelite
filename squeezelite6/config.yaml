@@ -1,5 +1,5 @@
 name: Squeezelite Clone 6
-version: 0.0.20
+version: 0.0.21
 slug: squeezelite6
 description: Squeezelite player for LMS the Lyrion Music Server, formerly the Logitech Media Server on home assistant
 url: https://github.com/pssc/ha-addon-squeezelite
