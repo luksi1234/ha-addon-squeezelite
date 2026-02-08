@@ -7,11 +7,11 @@ A complete and easy way to run the [Squeezelite][squeezelite] player for [LMS th
 ![Release][release-shield] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]<br>
 ![Supports i386 Architecture][i386-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports aarch64 Architecture][aarch64-shield]
 
-The [Home Assistant Squeezelite Add-on](https://github.com/pssc/ha-addon-squeezelite) allows you to run a [Squeezelite][squeezelite] player local on your home assistant install. \
+The [Home Assistant Squeezelite Add-on](https://github.com/luksi1234/ha-addon-squeezelite) allows you to run a [Squeezelite][squeezelite] player local on your home assistant install. \
 This addon supports direct hardware acccess of the sound hardware.
 
 [Squeezelite][squeezelite] requires a [Logitech Media Server][lms] in your network \
-Please visit [Logitech Media Server Add-on](https://github.com/pssc/ha-addon-lms/) page to install the server (if required).
+Please visit [Logitech Media Server Add-on](https://github.com/luksi1234/ha-addon-lms/) page to install the server (if required).
 
 ## Support
 Create an [issue on github][issues], or if its a general query ask on the [home assistant thread][forum]
@@ -29,5 +29,5 @@ Create an [issue on github][issues], or if its a general query ask on the [home 
 [squeezelite]: https://github.com/ralph-irving/squeezelite
 [lms]: https://forums.slimdevices.com/
 [forum]: https://community.home-assistant.io/t/home-assistant-community-addon-logitech-media-server-lms/338137
-[issues]: https://github.com/pssc/ha-addon-squeezelite/issues
+[issues]: https://github.com/luksi1234/ha-addon-squeezelite/issues
 [discord]: https://discord.me/hassioaddons
